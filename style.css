@@ -2,6 +2,7 @@
 body {
   font-family: "Poppins", sans-serif;
 }
+/* Carousel Part */
 .banner-button {
   text-decoration: none;
   background-color: whitesmoke;
@@ -11,6 +12,18 @@ body {
   font-size: 16px;
   color: black;
 }
+.carousel-inner img {
+  width: 100%;
+  height: 480px;
+}
+.banner {
+  margin-top: 60px;
+  margin-bottom: 160px;
+}
+/* Package Part */
+.package {
+  margin-bottom: 85px;
+}
 .wedding-plus {
   width: 260px;
   height: 450px;
@@ -18,9 +31,6 @@ body {
   border-radius: 20px;
   box-shadow: 0 8px 6px -6px gray;
 }
-.package {
-  align-items: center;
+.bonus-part {
+  margin-bottom: 85px;
 }
-/* .carousel-caption {
-  top: 5%;
-} */

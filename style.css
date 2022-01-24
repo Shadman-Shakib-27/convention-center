@@ -2,12 +2,6 @@
 body {
   font-family: "Poppins", sans-serif;
 }
-.banner-photo {
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: rgba(0, 0, 0, 0.5);
-  background-blend-mode: overlay;
-}
 .banner-button {
   text-decoration: none;
   background-color: whitesmoke;
@@ -17,15 +11,13 @@ body {
   font-size: 16px;
   color: black;
 }
-.Card {
-  width: 250px;
-  height: 387px;
-  margin-bottom: 20px;
-}
 .wedding-plus {
   width: 260px;
   height: 450px;
   padding: 10px 10px;
   border-radius: 20px;
   box-shadow: 0 8px 6px -6px gray;
+}
+.package {
+  align-items: center;
 }
